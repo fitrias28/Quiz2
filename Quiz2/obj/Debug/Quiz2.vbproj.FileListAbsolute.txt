@@ -1,0 +1,14 @@
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\ResolveAssemblyReference.cache
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.Form1.resources
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.Form2.resources
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.Resources.resources
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.vbproj.GenerateResource.Cache
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\bin\Debug\Quiz2.exe
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\bin\Debug\Quiz2.pdb
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\bin\Debug\Quiz2.xml
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.exe
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.xml
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.pdb
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.Form3.resources
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.Form4.resources
+C:\latihan\VSTUDIO 2008\Quiz2\Quiz2\obj\Debug\Quiz2.Form5.resources
